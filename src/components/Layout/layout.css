@@ -1,0 +1,15 @@
+.layout__content {
+    padding-left: var(--sidebar-width);
+    background-color: var(--main-bg);
+    min-height: 100vh;
+    transition: all 0.3s ease 0s;
+}
+
+.layout__content.expand {
+    padding-left: 52px;
+}
+
+.layout__content-main {
+    padding: 10px 10px;
+    transition: all 0.3s ease 0s;
+}

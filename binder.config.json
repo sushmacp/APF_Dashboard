@@ -1,0 +1,17 @@
+{
+  "domains": [
+    {
+      "domainName": "mantisSwagger",
+      "domainUrl": "https://chethan-aritha.github.io/apf-json-provider/mantis-swagger-apis-v2.json",
+      "auth": {
+        "url": "http://13.232.177.74:31808/api/v1/aritha/login",
+
+        "requestBody": {
+          "username": "",
+          "password": ""
+        },
+        "tokenPath": "data.token"
+      }
+    }
+  ]
+}

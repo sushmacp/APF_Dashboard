@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-shopping-bag",
+        "count": "2,000",
+        "title": "Number Of users"
+    },
+    {
+        "icon": "bx bx-download",
+        "count": "10",
+        "title": "Daily Downloads"
+    },
+    {
+        "icon": "bx bx-download",
+        "count": "70",
+        "title": "Weekly Downloads"
+    },
+    {
+        "icon": "bx bxs-like",
+        "count": "1,711",
+        "title": "Total hits"
+    }
+]
